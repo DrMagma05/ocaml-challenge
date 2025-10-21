@@ -1,0 +1,1 @@
+let hot() =Random.int(2)=0;; 
